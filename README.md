@@ -1,0 +1,2 @@
+# subquery
+for ambasador get
